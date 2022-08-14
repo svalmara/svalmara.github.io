@@ -60,6 +60,7 @@ Master en Linguistique à l’ULB 2020 – Actuellement.
 ```
 
 ### COMPÉTENCES
+
 ```
 Polyglotte : maitrise du grec (langue maternelle) et très bonne gestion de l’anglais ainsi que le français (niveau C2), Bonne maitrise de l’espagnol et du serbe (niveau B2) ainsi que débutante en Italien (Niveau A1-A2). 
 
@@ -67,4 +68,5 @@ Gestion d’équipe, gestion des stocks, gestion de commandes.
 
 Facilité de communication et flexibilité accrue. 
 
-Rapide, correcte et motivée 
+Rapide, correcte et motivée
+```
