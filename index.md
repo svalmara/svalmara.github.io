@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
-You can use the [editor on GitHub](https://github.com/svalmara/svalmara.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am using this Page in order to show my CV while also providing my experience with GitHub for my university course called "Traitement automatique de corpus" code _STIC-B545_ (more information on the course [here](https://www.ulb.be/fr/programme/2021-stic-b545))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I am currently running a theme proposed by GitHub called [Jekyll](https://jekyllrb.com/) hoping to provide a more visually stunning WebPage for my CV.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
