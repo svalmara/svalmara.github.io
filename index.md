@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 ## Bienvenue sur ma page GitHub
 
 J'utilise cette Page pour montrer mon CV tout en apportant mon expérience avec GitHub pour mon cours universitaire "Traitement automatique de corpus" code _STIC-B545_ (plus d'informations sur le cours [ici](https://www.ulb .be/fr/programme/2021-stic-b545))
