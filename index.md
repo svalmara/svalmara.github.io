@@ -13,7 +13,7 @@ J'utilise actuellement un thème proposé par GitHub appelé [Jekyll](https://je
 
 ### Experience
 
-```Mon experience professionel
+Mon experience professionel
 
 - Assistante à la librairie, Collège du Sacré-Cœur Boulevard Audent 58 à Charleroi *2016-2017*. 
 
@@ -40,11 +40,11 @@ _Accueil des clients, préparation de commandes, service au bar, nettoyage de l�
 _Accueil des clients, préparation de commandes, nettoyage de l’établissement, gestion de l’équipe, gestion de la presse, machine Lotto, gestion de caisse._
 
 Actuellement : Sous-chef chez _Un Jours à Peyrasol_ depuis Mai 2022 Site du restaurant : [ici](http://www.unjourapeyrassol.com/bruxelles/)
-```
+
 
 ### Formations
 
-```Mes formation universitaires et non-universitaires.
+Mes formation universitaires et non-universitaires.
 
 University Of Cambridge : Certificate of Proficiency in English Level B2 2014. 
 
@@ -59,11 +59,10 @@ Maîtrise de la langue française, Ecole Industrielle de Jumet Rue Ledoux 23A - 
 Bachelier en Langue et Lettre modernes – orientation générale à l’ULB 2017-2020. 
 
 Master en Linguistique à l’ULB 2020 – Actuellement.
-```
+
 
 ### COMPÉTENCES
 
-```
 Polyglotte : maitrise du grec (langue maternelle) et très bonne gestion de l’anglais ainsi que le français (niveau C2), Bonne maitrise de l’espagnol et du serbe (niveau B2) ainsi que débutante en Italien (Niveau A1-A2). 
 
 Gestion d’équipe, gestion des stocks, gestion de commandes. 
@@ -71,4 +70,3 @@ Gestion d’équipe, gestion des stocks, gestion de commandes.
 Facilité de communication et flexibilité accrue. 
 
 Rapide, correcte et motivée
-```
