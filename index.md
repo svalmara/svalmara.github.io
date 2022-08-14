@@ -1,5 +1,7 @@
 # Sofia Valma-Rantisits
+
 email : sophiafr100@gmail.com
+
 N. Téléphone : +32 476 21 46 21
 
 ## Bienvenue sur ma page GitHub
@@ -37,7 +39,7 @@ _Accueil des clients, préparation de commandes, service au bar, nettoyage de l�
 
 _Accueil des clients, préparation de commandes, nettoyage de l’établissement, gestion de l’équipe, gestion de la presse, machine Lotto, gestion de caisse._
 
-Actuellement : Sous-chef chez _Un Jours à Peyrasol_ depuis Mai 2022
+Actuellement : Sous-chef chez _Un Jours à Peyrasol_ depuis Mai 2022 Site du restaurant : [ici](http://www.unjourapeyrassol.com/bruxelles/)
 ```
 
 ### Formations
